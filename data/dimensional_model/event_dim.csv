@@ -1,0 +1,484 @@
+DATE,LOCATION,CITY,NAME,EVENT_PK
+,,,No Event,1
+2015-01-03,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,2
+2015-01-06,Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,3
+2015-01-08,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,4
+2015-01-10,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,5
+2015-01-27,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,6
+2015-01-30,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,7
+2015-02-01,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,8
+2015-02-03,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,9
+2015-02-05,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,10
+2015-02-07,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,11
+2015-02-13,Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,12
+2015-02-16,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,13
+2015-03-01,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,14
+2015-03-03,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,15
+2015-03-09,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,16
+2015-03-12,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,17
+2015-03-14,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,18
+2015-03-17,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,19
+2015-03-19,Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,20
+2015-03-24,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,21
+2015-03-26,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,22
+2015-03-28,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,23
+2015-04-06,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,24
+2015-04-09,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,25
+2015-04-11,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,26
+2015-04-15,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,27
+2015-04-17,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,28
+2015-04-23,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,29
+2015-09-21,The Q Centre,Vancouver,Vancouver Canucks VS San Jose Sharks,30
+2015-09-22,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,31
+2015-09-26,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,32
+2015-09-28,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,33
+2015-10-03,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,34
+2015-10-10,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,35
+2015-10-16,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,36
+2015-10-18,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,37
+2015-10-22,Rogers Arena,Vancouver,Vancouver Canucks VS Washington Capitals,38
+2015-10-24,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,39
+2015-10-27,Rogers Arena,Vancouver,Vancouver Canucks VS Montréal Canadiens,40
+2015-11-02,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,41
+2015-11-04,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,42
+2015-11-21,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,43
+2015-11-22,Rogers Arena,Vancouver,Vancouver Canucks VS New Jersey Devils,44
+2015-12-03,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,45
+2015-12-05,Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,46
+2015-12-07,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,47
+2015-12-09,Rogers Arena,Vancouver,Vancouver Canucks VS New York Rangers,48
+2015-12-26,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,49
+2015-12-28,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,50
+2016-01-01,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,51
+2016-01-04,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,52
+2016-01-06,Rogers Arena,Vancouver,Vancouver Canucks VS Carolina Hurricanes,53
+2016-01-09,Rogers Arena,Vancouver,Vancouver Canucks VS Tampa Bay Lightning,54
+2016-01-11,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,55
+2016-01-26,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,56
+2016-02-04,Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,57
+2016-02-06,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,58
+2016-02-13,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,59
+2016-02-15,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,60
+2016-02-18,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,61
+2016-02-21,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,62
+2016-02-25,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,63
+2016-02-28,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,64
+2016-03-01,Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,65
+2016-03-03,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,66
+2016-03-09,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,67
+2016-03-12,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,68
+2016-03-14,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,69
+2016-03-16,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,70
+2016-03-19,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,71
+2016-03-27,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,72
+2016-03-29,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,73
+2016-04-04,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,74
+2016-04-09,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,75
+2016-09-28,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,76
+2016-10-02,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,77
+2016-10-03,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,78
+2016-10-06,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,79
+2016-10-15,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,80
+2016-10-16,Rogers Arena,Vancouver,Vancouver Canucks VS Carolina Hurricanes,81
+2016-10-18,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,82
+2016-10-20,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,83
+2016-10-25,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,84
+2016-10-28,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,85
+2016-10-29,Rogers Arena,Vancouver,Vancouver Canucks VS Washington Capitals,86
+2016-11-13,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,87
+2016-11-15,Rogers Arena,Vancouver,Vancouver Canucks VS New York Rangers,88
+2016-11-17,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,89
+2016-11-19,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,90
+2016-11-29,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,91
+2016-12-01,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,92
+2016-12-03,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,93
+2016-12-16,Rogers Arena,Vancouver,Vancouver Canucks VS Tampa Bay Lightning,94
+2016-12-18,Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,95
+2016-12-20,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,96
+2016-12-22,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,97
+2016-12-28,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,98
+2016-12-30,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,99
+2017-01-02,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,100
+2017-01-04,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,101
+2017-01-06,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,102
+2017-01-15,Rogers Arena,Vancouver,Vancouver Canucks VS New Jersey Devils,103
+2017-01-17,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,104
+2017-01-20,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,105
+2017-02-02,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,106
+2017-02-04,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,107
+2017-02-18,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,108
+2017-02-19,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,109
+2017-02-25,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,110
+2017-02-28,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,111
+2017-03-07,Rogers Arena,Vancouver,Vancouver Canucks VS Montréal Canadiens,112
+2017-03-09,Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,113
+2017-03-11,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,114
+2017-03-13,Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,115
+2017-03-16,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,116
+2017-03-28,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,117
+2017-03-31,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,118
+2017-04-02,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,119
+2017-04-08,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,120
+2017-09-17,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,121
+2017-09-23,Wukesong Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,122
+2017-09-28,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,123
+2017-09-30,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,124
+2017-10-07,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,125
+2017-10-10,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,126
+2017-10-12,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,127
+2017-10-14,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,128
+2017-10-26,Rogers Arena,Vancouver,Vancouver Canucks VS Washington Capitals,129
+2017-10-30,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,130
+2017-11-01,Rogers Arena,Vancouver,Vancouver Canucks VS New Jersey Devils,131
+2017-11-04,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,132
+2017-11-06,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,133
+2017-11-16,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,134
+2017-11-18,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,135
+2017-12-02,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,136
+2017-12-05,Rogers Arena,Vancouver,Vancouver Canucks VS Carolina Hurricanes,137
+2017-12-07,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,138
+2017-12-13,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,139
+2017-12-15,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,140
+2017-12-17,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,141
+2017-12-19,Rogers Arena,Vancouver,Vancouver Canucks VS Montréal Canadiens,142
+2017-12-23,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,143
+2017-12-28,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,144
+2017-12-30,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,145
+2018-01-02,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,146
+2018-01-23,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,147
+2018-01-25,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,148
+2018-01-30,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,149
+2018-02-01,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,150
+2018-02-03,Rogers Arena,Vancouver,Vancouver Canucks VS Tampa Bay Lightning,151
+2018-02-14,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,152
+2018-02-17,Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,153
+2018-02-20,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,154
+2018-02-28,Rogers Arena,Vancouver,Vancouver Canucks VS New York Rangers,155
+2018-03-02,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,156
+2018-03-05,Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,157
+2018-03-07,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,158
+2018-03-09,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,159
+2018-03-17,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,160
+2018-03-27,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,161
+2018-03-29,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,162
+2018-03-31,Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,163
+2018-04-03,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,164
+2018-04-05,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,165
+2018-09-18,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,166
+2018-09-19,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,167
+2018-09-20,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,168
+2018-09-29,Prospera Place,Vancouver,Vancouver Canucks VS Arizona Coyotes,169
+2018-10-03,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,170
+2018-10-20,Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,171
+2018-10-22,Rogers Arena,Vancouver,Vancouver Canucks VS Washington Capitals,172
+2018-10-27,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,173
+2018-10-29,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,174
+2018-10-31,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,175
+2018-11-02,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,176
+2018-11-17,Rogers Arena,Vancouver,Vancouver Canucks VS Montréal Canadiens,177
+2018-11-19,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,178
+2018-11-27,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,179
+2018-11-29,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,180
+2018-12-01,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,181
+2018-12-04,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,182
+2018-12-06,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,183
+2018-12-15,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,184
+2018-12-16,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,185
+2018-12-18,Rogers Arena,Vancouver,Vancouver Canucks VS Tampa Bay Lightning,186
+2018-12-20,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,187
+2018-12-22,Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,188
+2019-01-10,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,189
+2019-01-13,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,190
+2019-01-16,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,191
+2019-01-18,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,192
+2019-01-20,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,193
+2019-01-23,Rogers Arena,Vancouver,Vancouver Canucks VS Carolina Hurricanes,194
+2019-02-09,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,195
+2019-02-11,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,196
+2019-02-21,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,197
+2019-02-23,Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,198
+2019-02-25,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,199
+2019-03-06,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,200
+2019-03-09,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,201
+2019-03-13,Rogers Arena,Vancouver,Vancouver Canucks VS New York Rangers,202
+2019-03-15,Rogers Arena,Vancouver,Vancouver Canucks VS New Jersey Devils,203
+2019-03-20,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,204
+2019-03-23,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,205
+2019-03-24,Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,206
+2019-03-26,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,207
+2019-03-28,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,208
+2019-03-30,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,209
+2019-04-02,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,210
+2019-09-17,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,211
+2019-09-23,Abbotsford Centre,Vancouver,Vancouver Canucks VS Ottawa Senators,212
+2019-09-25,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,213
+2019-09-26,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,214
+2019-10-09,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,215
+2019-10-12,Rogers Arena,Vancouver,Vancouver Canucks VS Philadelphia Flyers,216
+2019-10-15,Rogers Arena,Vancouver,Vancouver Canucks VS Detroit Red Wings,217
+2019-10-25,Rogers Arena,Vancouver,Vancouver Canucks VS Washington Capitals,218
+2019-10-28,Rogers Arena,Vancouver,Vancouver Canucks VS Florida Panthers,219
+2019-11-05,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,220
+2019-11-10,Rogers Arena,Vancouver,Vancouver Canucks VS New Jersey Devils,221
+2019-11-12,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,222
+2019-11-14,Rogers Arena,Vancouver,Vancouver Canucks VS Dallas Stars,223
+2019-11-16,Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,224
+2019-12-01,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,225
+2019-12-03,Rogers Arena,Vancouver,Vancouver Canucks VS Ottawa Senators,226
+2019-12-07,Rogers Arena,Vancouver,Vancouver Canucks VS Buffalo Sabres,227
+2019-12-10,Rogers Arena,Vancouver,Vancouver Canucks VS Toronto Maple Leafs,228
+2019-12-12,Rogers Arena,Vancouver,Vancouver Canucks VS Carolina Hurricanes,229
+2019-12-17,Rogers Arena,Vancouver,Vancouver Canucks VS Montréal Canadiens,230
+2019-12-19,Rogers Arena,Vancouver,Vancouver Canucks VS Vegas Golden Knights,231
+2019-12-21,Rogers Arena,Vancouver,Vancouver Canucks VS Pittsburgh Penguins,232
+2019-12-23,Rogers Arena,Vancouver,Vancouver Canucks VS Edmonton Oilers,233
+2019-12-28,Rogers Arena,Vancouver,Vancouver Canucks VS Los Angeles Kings,234
+2020-01-02,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,235
+2020-01-04,Rogers Arena,Vancouver,Vancouver Canucks VS New York Rangers,236
+2020-01-16,Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,237
+2020-01-18,Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,238
+2020-01-27,Rogers Arena,Vancouver,Vancouver Canucks VS St. Louis Blues,239
+2020-02-08,Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,240
+2020-02-10,Rogers Arena,Vancouver,Vancouver Canucks VS Nashville Predators,241
+2020-02-12,Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,242
+2020-02-16,Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,243
+2020-02-19,Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,244
+2015-01-02,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,245
+2015-01-04,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,246
+2015-01-08,Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,247
+2015-01-10,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,248
+2015-01-21,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,249
+2015-01-30,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,250
+2015-02-05,Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,251
+2015-02-12,Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,252
+2015-02-14,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,253
+2015-02-16,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,254
+2015-02-18,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,255
+2015-02-22,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,256
+2015-02-28,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,257
+2015-03-04,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,258
+2015-03-10,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,259
+2015-03-12,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,260
+2015-03-14,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,261
+2015-03-28,Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,262
+2015-03-30,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,263
+2015-04-07,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,264
+2015-04-09,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,265
+2015-04-11,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,266
+2015-09-22,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,267
+2015-09-24,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,268
+2015-09-27,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,269
+2015-10-08,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,270
+2015-10-10,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,271
+2015-10-14,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,272
+2015-10-21,Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,273
+2015-10-24,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,274
+2015-11-01,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,275
+2015-11-03,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,276
+2015-11-06,Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,277
+2015-11-25,Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,278
+2015-11-28,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,279
+2015-12-07,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,280
+2015-12-09,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,281
+2015-12-17,Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,282
+2015-12-19,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,283
+2015-12-21,Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,284
+2015-12-27,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,285
+2015-12-31,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,286
+2016-01-02,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,287
+2016-01-04,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,288
+2016-01-06,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,289
+2016-01-08,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,290
+2016-01-12,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,291
+2016-01-14,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,292
+2016-01-20,Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,293
+2016-01-22,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,294
+2016-02-02,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,295
+2016-02-04,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,296
+2016-02-06,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,297
+2016-02-09,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,298
+2016-02-17,Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,299
+2016-02-24,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,300
+2016-02-27,Coors Field,Denver,Colorado Avalanche VS Detroit Red Wings,301
+2016-03-03,Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,302
+2016-03-05,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,303
+2016-03-07,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,304
+2016-03-09,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,305
+2016-03-24,Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,306
+2016-03-26,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,307
+2016-04-01,Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,308
+2016-04-03,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,309
+2016-04-09,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,310
+2016-09-28,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,311
+2016-09-30,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,312
+2016-10-04,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,313
+2016-10-15,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,314
+2016-10-28,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,315
+2016-11-01,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,316
+2016-11-05,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,317
+2016-11-08,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,318
+2016-11-11,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,319
+2016-11-13,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,320
+2016-11-15,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,321
+2016-11-23,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,322
+2016-11-26,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,323
+2016-11-29,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,324
+2016-12-01,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,325
+2016-12-03,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,326
+2016-12-14,Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,327
+2016-12-16,Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,328
+2016-12-22,Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,329
+2016-12-27,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,330
+2016-12-31,Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,331
+2017-01-06,Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,332
+2017-01-12,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,333
+2017-01-14,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,334
+2017-01-17,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,335
+2017-01-23,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,336
+2017-01-25,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,337
+2017-02-04,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,338
+2017-02-07,Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,339
+2017-02-09,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,340
+2017-02-19,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,341
+2017-02-21,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,342
+2017-02-25,Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,343
+2017-03-05,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,344
+2017-03-07,Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,345
+2017-03-09,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,346
+2017-03-11,Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,347
+2017-03-15,Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,348
+2017-03-21,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,349
+2017-03-23,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,350
+2017-03-29,Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,351
+2017-03-31,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,352
+2017-04-04,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,353
+2017-04-06,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,354
+2017-09-19,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,355
+2017-09-21,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,356
+2017-09-24,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,357
+2017-10-11,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,358
+2017-10-13,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,359
+2017-10-19,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,360
+2017-10-24,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,361
+2017-10-28,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,362
+2017-11-02,Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,363
+2017-11-10,Ericsson Globe,Denver,Colorado Avalanche VS Ottawa Senators,364
+2017-11-16,Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,365
+2017-11-22,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,366
+2017-11-25,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,367
+2017-11-29,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,368
+2017-12-01,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,369
+2017-12-03,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,370
+2017-12-05,Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,371
+2017-12-14,Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,372
+2017-12-16,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,373
+2017-12-18,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,374
+2017-12-27,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,375
+2017-12-29,Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,376
+2017-12-31,Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,377
+2018-01-02,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,378
+2018-01-04,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,379
+2018-01-06,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,380
+2018-01-15,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,381
+2018-01-18,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,382
+2018-01-20,Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,383
+2018-02-06,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,384
+2018-02-14,Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,385
+2018-02-18,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,386
+2018-02-26,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,387
+2018-02-28,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,388
+2018-03-02,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,389
+2018-03-04,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,390
+2018-03-10,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,391
+2018-03-16,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,392
+2018-03-18,Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,393
+2018-03-22,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,394
+2018-03-24,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,395
+2018-03-28,Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,396
+2018-03-30,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,397
+2018-04-07,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,398
+2018-04-16,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,399
+2018-04-18,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,400
+2018-04-22,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,401
+2018-09-18,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,402
+2018-09-26,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,403
+2018-09-28,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,404
+2018-10-04,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,405
+2018-10-06,Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,406
+2018-10-13,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,407
+2018-10-24,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,408
+2018-10-26,Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,409
+2018-11-07,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,410
+2018-11-14,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,411
+2018-11-16,Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,412
+2018-11-24,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,413
+2018-11-28,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,414
+2018-11-30,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,415
+2018-12-11,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,416
+2018-12-15,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,417
+2018-12-17,Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,418
+2018-12-19,Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,419
+2018-12-21,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,420
+2018-12-29,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,421
+2018-12-31,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,422
+2019-01-02,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,423
+2019-01-04,Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,424
+2019-01-19,Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,425
+2019-01-21,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,426
+2019-01-23,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,427
+2019-02-02,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,428
+2019-02-05,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,429
+2019-02-12,Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,430
+2019-02-16,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,431
+2019-02-18,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,432
+2019-02-20,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,433
+2019-02-25,Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,434
+2019-02-27,Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,435
+2019-03-05,Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,436
+2019-03-09,Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,437
+2019-03-11,Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,438
+2019-03-15,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,439
+2019-03-17,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,440
+2019-03-23,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,441
+2019-03-27,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,442
+2019-03-29,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,443
+2019-04-02,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,444
+2019-04-04,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,445
+2019-04-15,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,446
+2019-04-17,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,447
+2019-04-30,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,448
+2019-05-02,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,449
+2019-05-06,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,450
+2019-09-17,Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,451
+2019-09-19,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,452
+2019-09-22,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,453
+2019-10-03,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,454
+2019-10-05,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,455
+2019-10-10,Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,456
+2019-10-12,Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,457
+2019-10-26,Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,458
+2019-10-30,Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,459
+2019-11-01,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,460
+2019-11-07,Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,461
+2019-11-09,Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,462
+2019-11-23,Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,463
+2019-11-27,Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,464
+2019-11-30,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,465
+2019-12-09,Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,466
+2019-12-11,Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,467
+2019-12-13,Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,468
+2019-12-19,Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,469
+2019-12-21,Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,470
+2019-12-27,Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,471
+2019-12-31,Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,472
+2020-01-02,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,473
+2020-01-10,Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,474
+2020-01-14,Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,475
+2020-01-16,Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,476
+2020-01-18,Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,477
+2020-01-20,Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,478
+2020-02-11,Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,479
+2020-02-13,Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,480
+2020-02-15,Falcon Stadium,Denver,Colorado Avalanche VS Los Angeles Kings,481
+2020-02-17,Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,482
+2020-02-19,Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,483
