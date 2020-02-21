@@ -1,6 +1,9 @@
 # Taken from https://github.com/github/gitignore/blob/master/Python.gitignore
 
 
+# vs-code
+.vscode
+
 # Ignore all data files
 data/denver_crime_data/
 data/vancouver_crime_data/
