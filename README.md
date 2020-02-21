@@ -5,3 +5,6 @@ Data used is excluded as it is too large and it can be found online
 
 - Denver crime data - https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
 - Vancouver crime data -  https://geodash.vpd.ca/opendata/
+
+## Dependencies
+- Eventful API - https://api.eventful.com/libs/python/
