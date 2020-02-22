@@ -1876,3 +1876,4 @@ FULL_DATE,DAY,MONTH,YEAR,DAY_OF_YEAR,WEEK_OF_YEAR,WEEKDAY,IS_WEEKEND,QUARTER,IS_
 2020-02-19,19,2,2020,50,8,3,False,1,False,False,False,False,False,,False,,20200219
 2020-02-20,20,2,2020,51,8,4,False,1,False,False,False,False,False,,False,,20200220
 2020-02-21,21,2,2020,52,8,5,False,1,False,False,False,False,False,,False,,20200221
+2020-02-22,22,2,2020,53,8,6,True,1,False,False,False,False,False,,False,,20200222
