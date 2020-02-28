@@ -61,7 +61,6 @@ create table event_dimension (
 -- Fact table
 
 create table crime_fact (
-    crime_fact_key serial not null,
     date_dim_key int,
     location_dim_key int,
     crime_dim_key int,
@@ -69,8 +68,7 @@ create table crime_fact (
     is_traffic boolean,
     is_fatal boolean,
     is_nighttime boolean,
-    -- primary key (date_dim_key, location_dim_key, crime_dim_key, event_dim_key),
-    primary key (crime_fact_key),
+    primary key (date_dim_key, location_dim_key, crime_dim_key, event_dim_key),
     foreign key (date_dim_key) references date_dimension(date_dim_key),
     foreign key (location_dim_key) references location_dimension(location_dim_key),
     foreign key (crime_dim_key) references crime_dimension(crime_dim_key),
