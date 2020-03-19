@@ -1,4 +1,3 @@
-
 -- Crimes per category type per city on March 2016
 select l.city, c.offense_category, count(*)
 from 

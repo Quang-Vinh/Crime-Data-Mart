@@ -1,4 +1,3 @@
-
 -- Number crimes per city, neighborhood for selected offense categories for 2018
 select l.city, l.neighborhood, c.offense_category, count(*)
 from 

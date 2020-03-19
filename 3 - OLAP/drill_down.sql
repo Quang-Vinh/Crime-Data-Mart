@@ -1,4 +1,3 @@
-
 -- Total number of crimes during a year 2016 in vancouver per neighborhoods
 select l.neighborhood, count(*)
 from 

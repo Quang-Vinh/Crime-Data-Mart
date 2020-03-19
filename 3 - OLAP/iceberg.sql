@@ -1,4 +1,3 @@
-
 -- Locations in Denver with highest occurences of Burglary per year
 select l.neighborhood, l.location, d.year, count(*) as total
 from 

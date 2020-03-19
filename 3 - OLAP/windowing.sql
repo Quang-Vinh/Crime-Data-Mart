@@ -1,4 +1,3 @@
-
 -- Neighborhoods with total number of crimes per month and averaged per year
 select t.neighborhood, t.year, t.month, total, avg(t.total) over w
 from

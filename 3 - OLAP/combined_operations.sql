@@ -1,4 +1,3 @@
-
 -- Number of crimes on a holiday grouped by offense category and city
 select c.offense_category, l.city, count(*), grouping(l.city, c.offense_category)
 from 

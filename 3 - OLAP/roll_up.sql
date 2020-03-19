@@ -1,4 +1,3 @@
-
 -- Number of crimes grouped by offense category and year
 select d.year, c.offense_category, grouping(d.year, c.offense_category), count(*)
 from 
