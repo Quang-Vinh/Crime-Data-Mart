@@ -13,7 +13,6 @@ dash-renderer==1.2.4
 dash-table==4.6.0
 decorator==4.4.1
 dtale==1.7.5
-eventful==0.2
 Flask==1.1.1
 Flask-Compress==1.4.0
 future==0.18.2
