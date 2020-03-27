@@ -14,8 +14,8 @@ from
 where d.year = 2018 and c.offense_category in ('All Other Crimes', 'Murder', 'Robbery', 'Larceny', 'Public Disorder')
 group by l.city, l.neighborhood, c.offense_category
 
--- Number of crimes per offense category for certain year period in Vancouver
-select d.year, c.offense_category, count(*)
+-- Number of crimes per offense category for certain year period in Denver
+select c.offense_category, c.offense_type, d.year, count(*)
 from 
     "CrimeDataMart"."crime_fact" as f 
     inner join 
@@ -27,5 +27,6 @@ from
     inner join 
     "CrimeDataMart"."crime_dimension" as c 
     on c.crime_dim_key = f.crime_dim_key
-where l.city = 'Vancouver' and d.year between 2016 and 2018
-group by d.year, c.offense_category
+where l.city = 'Denver' and d.year between 2016 and 2018
+group by c.offense_category, c.offense_type, d.year
+

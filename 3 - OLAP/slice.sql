@@ -29,3 +29,19 @@ from
     on c.crime_dim_key = f.crime_dim_key
 where l.city = 'Vancouver'
 group by d.year, d.month, c.offense_category
+
+-- Crimes per year, month and category which occurred on an event at the Rogers arena
+select d.year, d.month, c.offense_category, count(*)
+from 
+    "CrimeDataMart"."crime_fact" as f 
+    inner join 
+    "CrimeDataMart"."date_dimension" as d 
+    on d.date_dim_key = f.date_dim_key
+    inner join 
+    "CrimeDataMart"."event_dimension" as e
+    on e.event_dim_key = f.event_dim_key
+    inner join 
+    "CrimeDataMart"."crime_dimension" as c 
+    on c.crime_dim_key = f.crime_dim_key
+where e.location = 'Rogers Arena'
+group by d.year, d.month, c.offense_category
