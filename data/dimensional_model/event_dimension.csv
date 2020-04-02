@@ -244,243 +244,261 @@ Rogers Arena,Vancouver,Vancouver Canucks VS Chicago Blackhawks,Hockey Game,,242
 Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,Hockey Game,,243
 Rogers Arena,Vancouver,Vancouver Canucks VS Minnesota Wild,Hockey Game,,244
 Rogers Arena,Vancouver,Vancouver Canucks VS Boston Bruins,Hockey Game,,245
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,246
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,247
-Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,248
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,249
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,250
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,251
-Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,252
-Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,253
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,254
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,255
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,256
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,257
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,258
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,259
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,260
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,261
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,262
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,263
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,264
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,265
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,266
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,267
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,268
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,269
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,270
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,271
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,272
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,273
-Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,274
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,275
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,276
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,277
-Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,278
-Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,279
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,280
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,281
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,282
-Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,283
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,284
-Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,285
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,286
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,287
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,288
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,289
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,290
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,291
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,292
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,293
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,294
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,295
+Rogers Arena,Vancouver,Vancouver Canucks VS Arizona Coyotes,Hockey Game,,246
+Rogers Arena,Vancouver,Vancouver Canucks VS Colorado Avalanche,Hockey Game,,247
+Rogers Arena,Vancouver,Vancouver Canucks VS Columbus Blue Jackets,Hockey Game,,248
+Rogers Arena,Vancouver,Vancouver Canucks VS New York Islanders,Hockey Game,,249
+Rogers Arena,Vancouver,Vancouver Canucks VS Winnipeg Jets,Hockey Game,,250
+Rogers Arena,Vancouver,Vancouver Canucks VS Tampa Bay Lightning,Hockey Game,,251
+Rogers Arena,Vancouver,Vancouver Canucks VS San Jose Sharks,Hockey Game,,252
+Rogers Arena,Vancouver,Vancouver Canucks VS Calgary Flames,Hockey Game,,253
+Rogers Arena,Vancouver,Vancouver Canucks VS Anaheim Ducks,Hockey Game,,254
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,255
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,256
+Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,257
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,258
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,259
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,260
+Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,261
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,262
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,263
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,264
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,265
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,266
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,267
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,268
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,269
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,270
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,271
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,272
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,273
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,274
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,275
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,276
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,277
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,278
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,279
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,280
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,281
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,282
+Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,283
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,284
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,285
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,286
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,287
+Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,288
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,289
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,290
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,291
+Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,292
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,293
+Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,294
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,295
 Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,296
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,297
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,298
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,299
-Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,300
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,301
-Coors Field,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,302
-Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,303
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,304
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,305
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,306
-Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,307
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,308
-Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,309
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,310
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,311
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,312
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,313
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,314
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,315
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,316
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,317
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,318
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,319
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,320
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,321
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,297
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,298
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,299
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,300
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,301
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,302
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,303
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,304
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,305
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,306
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,307
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,308
+Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,309
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,310
+Coors Field,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,311
+Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,312
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,313
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,314
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,315
+Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,316
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,317
+Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,318
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,319
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,320
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,321
 Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,322
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,323
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,324
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,325
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,326
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,327
-Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,328
-Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,329
-Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,330
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,331
-Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,332
-Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,333
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,334
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,335
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,336
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,337
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,338
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,339
-Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,340
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,341
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,342
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,343
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,344
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,345
-Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,346
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,347
-Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,348
-Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,349
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,350
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,351
-Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,352
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,353
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,354
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,355
-Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,356
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,357
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,358
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,359
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,360
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,361
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,362
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,323
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,324
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,325
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,326
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,327
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,328
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,329
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,330
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,331
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,332
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,333
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,334
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,335
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,336
+Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,337
+Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,338
+Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,339
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,340
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,341
+Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,342
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,343
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,344
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,345
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,346
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,347
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,348
+Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,349
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,350
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,351
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,352
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,353
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,354
+Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,355
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,356
+Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,357
+Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,358
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,359
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,360
+Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,361
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,362
 Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,363
-Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,364
-Ericsson Globe,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,365
-Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,366
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,367
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,368
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,369
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,370
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,364
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,365
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,366
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,367
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,368
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,369
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,370
 Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,371
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,372
-Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,373
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,374
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,375
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,376
-Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,377
-Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,378
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,379
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,380
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,381
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,382
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,383
-Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,384
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,385
-Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,386
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,387
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,388
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,389
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,372
+Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,373
+Ericsson Globe,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,374
+Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,375
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,376
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,377
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,378
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,379
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,380
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,381
+Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,382
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,383
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,384
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,385
+Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,386
+Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,387
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,388
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,389
 Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,390
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,391
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,392
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,393
-Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,394
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,395
-Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,396
-Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,397
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,398
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,399
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,391
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,392
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,393
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,394
+Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,395
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,396
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,397
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,398
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,399
 Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,400
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,401
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,401
 Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,402
-Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,403
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,404
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,405
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,406
-Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,407
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,408
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,409
-Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,410
+Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,403
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,404
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,405
+Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,406
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,407
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,408
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,409
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,410
 Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,411
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,412
-Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,413
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,414
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,415
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,416
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,417
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,418
-Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,419
-Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,420
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,421
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,422
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,423
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,424
-Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,425
-Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,426
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,427
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,428
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,429
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,430
-Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,431
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,432
-Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,433
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,434
-Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,435
-Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,436
-Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,437
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,438
-Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,439
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,440
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,441
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,442
-Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,443
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,444
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,445
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,446
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,447
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,448
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,449
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,450
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,451
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,412
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,413
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,414
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,415
+Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,416
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,417
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,418
+Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,419
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,420
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,421
+Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,422
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,423
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,424
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,425
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,426
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,427
+Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,428
+Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,429
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,430
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,431
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,432
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,433
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,434
+Pepsi Center,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,435
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,436
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,437
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,438
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,439
+Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,440
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,441
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,442
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,443
+Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,444
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,445
+Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,446
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,447
+Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,448
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,449
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,450
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,451
 Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,452
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,453
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,454
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,455
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,456
-Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,457
-Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,458
-Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,459
-Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,460
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,461
-Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,462
-Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,463
-Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,464
-Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,465
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,466
-Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,467
-Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,468
-Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,469
-Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,470
-Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,471
-Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,472
-Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,473
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,474
-Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,475
-Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,476
-Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,477
-Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,478
-Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,479
-Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,480
-Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,481
-Falcon Stadium,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,482
-Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,483
-Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,484
-Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,485
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,453
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,454
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,455
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,456
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,457
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,458
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,459
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,460
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,461
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,462
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,463
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,464
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,465
+Pepsi Center,Denver,Colorado Avalanche VS Boston Bruins,Hockey Game,,466
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,467
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,468
+Pepsi Center,Denver,Colorado Avalanche VS Florida Panthers,Hockey Game,,469
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,470
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,471
+Pepsi Center,Denver,Colorado Avalanche VS Columbus Blue Jackets,Hockey Game,,472
+Pepsi Center,Denver,Colorado Avalanche VS Toronto Maple Leafs,Hockey Game,,473
+Pepsi Center,Denver,Colorado Avalanche VS Edmonton Oilers,Hockey Game,,474
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,475
+Pepsi Center,Denver,Colorado Avalanche VS Calgary Flames,Hockey Game,,476
+Pepsi Center,Denver,Colorado Avalanche VS Philadelphia Flyers,Hockey Game,,477
+Pepsi Center,Denver,Colorado Avalanche VS New Jersey Devils,Hockey Game,,478
+Pepsi Center,Denver,Colorado Avalanche VS Carolina Hurricanes,Hockey Game,,479
+Pepsi Center,Denver,Colorado Avalanche VS Chicago Blackhawks,Hockey Game,,480
+Pepsi Center,Denver,Colorado Avalanche VS Minnesota Wild,Hockey Game,,481
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,482
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,483
+Pepsi Center,Denver,Colorado Avalanche VS Pittsburgh Penguins,Hockey Game,,484
+Pepsi Center,Denver,Colorado Avalanche VS Dallas Stars,Hockey Game,,485
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,486
+Pepsi Center,Denver,Colorado Avalanche VS St. Louis Blues,Hockey Game,,487
+Pepsi Center,Denver,Colorado Avalanche VS Detroit Red Wings,Hockey Game,,488
+Pepsi Center,Denver,Colorado Avalanche VS Ottawa Senators,Hockey Game,,489
+Pepsi Center,Denver,Colorado Avalanche VS Washington Capitals,Hockey Game,,490
+Falcon Stadium,Denver,Colorado Avalanche VS Los Angeles Kings,Hockey Game,,491
+Pepsi Center,Denver,Colorado Avalanche VS Tampa Bay Lightning,Hockey Game,,492
+Pepsi Center,Denver,Colorado Avalanche VS New York Islanders,Hockey Game,,493
+Pepsi Center,Denver,Colorado Avalanche VS Buffalo Sabres,Hockey Game,,494
+Pepsi Center,Denver,Colorado Avalanche VS Anaheim Ducks,Hockey Game,,495
+Pepsi Center,Denver,Colorado Avalanche VS New York Rangers,Hockey Game,,496
+Pepsi Center,Denver,Colorado Avalanche VS Vancouver Canucks,Hockey Game,,497
+Pepsi Center,Denver,Colorado Avalanche VS Vegas Golden Knights,Hockey Game,,498
+Pepsi Center,Denver,Colorado Avalanche VS San Jose Sharks,Hockey Game,,499
+Pepsi Center,Denver,Colorado Avalanche VS Montréal Canadiens,Hockey Game,,500
+Pepsi Center,Denver,Colorado Avalanche VS Nashville Predators,Hockey Game,,501
+Pepsi Center,Denver,Colorado Avalanche VS Arizona Coyotes,Hockey Game,,502
+Pepsi Center,Denver,Colorado Avalanche VS Winnipeg Jets,Hockey Game,,503
