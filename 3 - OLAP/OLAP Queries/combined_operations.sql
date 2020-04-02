@@ -17,7 +17,7 @@ order by l.city, c.offense_category
 
 
 -- Number of crimes that occured on an event between 2016-2018 per neighborhood and city
-select l.city, l.neighborhood, count(*)
+select l.city, l.neighborhood, count(*), grouping(l.city, l.neighborhood)
 from 
     "CrimeDataMart".crime_fact as f 
     inner join 
@@ -30,5 +30,5 @@ from
     "CrimeDataMart".location_dimension as l 
     on l.location_dim_key = f.location_dim_key
 where e.name != 'No Event' and d.year between 2016 and 2018
-group by l.city, l.neighborhood
+group by rollup(l.city, l.neighborhood)
 order by l.city, l.neighborhood
