@@ -18,7 +18,7 @@ Flask==1.1.1
 Flask-Compress==1.4.0
 future==0.18.2
 holidays==0.10.1
-httplib2==0.18.0
+httplib2==0.19.0
 idna==2.9
 ipykernel==5.1.4
 ipython==7.12.0
